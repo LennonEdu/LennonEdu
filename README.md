@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**LennonEdu/LennonEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with front end.
+- 🌱 I’m currently learning phyton.
+- 🤔 I’m looking for help with everything
+- 📫 How to reach me: lennon1996eduardo@gmail.com
+- 😄 Pronouns: He...etc.
+- ⚡ Fun fact: I'm lost with how much course i have to take!
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/LennonEdu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LennonEdu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennonEdu&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
