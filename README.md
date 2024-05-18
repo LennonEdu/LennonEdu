@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with front end.
-- 🌱 I’m currently learning phyton.
+- 🔭 I’m currently working with Mulesof.
+- 🌱 I’m currently learning JAVA.
 - 🤔 I’m looking for help with everything
 - 📫 How to reach me: lennon1996eduardo@gmail.com
 - 😄 Pronouns: He...etc.
